@@ -10,6 +10,6 @@ int main() {
   cout << "Kirils Verze" << endl;
 
   cout << "Aleksandrs Akula " << endl;
-
+cout << " Deniss Prokofjevs " << endl;
 
 }
