@@ -11,5 +11,6 @@ int main() {
 
   cout << "Aleksandrs Akula " << endl;
 cout << " Deniss Prokofjevs " << endl;
+  cout << "Vladislavs Batņa" << endl;
 
 }
